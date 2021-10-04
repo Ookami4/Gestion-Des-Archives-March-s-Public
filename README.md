@@ -1,15 +1,16 @@
 # Gestion-Des-Archives(Marchés Public)
 
-Gestion Des Archives (Marchés public) projet réaliser lors d'un stage d'initiation à DPN Nador AREFO
+Gestion Des Archives (Marchés public) projet réaliser lors d'un stage d'initiation à DPN Nador AREFO qui sert à facilité la consultation, l'ajoute, la suppression, la modification des marchés public.
+
 
 ## Architecture Modèle/Vue/Contrôleur
 Le MVC signifie Model-View-Controller est un modèle architectural qui sépare une application en trois composants logiques principaux :
 modèle, vue et le contrôleur. Chacun de ces composants est construit pour gérer des aspects de développement spécifiques d’une application.
 MVC est l’un des frameworks de développement Web standard les plus fréquemment utilisés dans l’industrie pour créer des projets extensibles et évolutifs.
 
-modèle : données (accès et mise à jour).
-vue : interface utilisateur (entrées et sorties).
-contrôleur : gestion des événements et synchronisation.
+  1. modèle : données (accès et mise à jour).
+  2. vue : interface utilisateur (entrées et sorties).
+  3. contrôleur : gestion des événements et synchronisation.
 
 ## Composants MVC
 
